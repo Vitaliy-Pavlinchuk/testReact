@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vitaliy-pavlinchuk.github.io/testReact/static/css/main.7acaea2f.css",
-    "main.js": "/vitaliy-pavlinchuk.github.io/testReact/static/js/main.07d3183d.js",
-    "index.html": "/vitaliy-pavlinchuk.github.io/testReact/index.html",
-    "main.7acaea2f.css.map": "/vitaliy-pavlinchuk.github.io/testReact/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/vitaliy-pavlinchuk.github.io/testReact/static/js/main.07d3183d.js.map"
+    "main.css": "/testReact/static/css/main.7acaea2f.css",
+    "main.js": "/testReact/static/js/main.9cb7d1a6.js",
+    "index.html": "/testReact/index.html",
+    "main.7acaea2f.css.map": "/testReact/static/css/main.7acaea2f.css.map",
+    "main.9cb7d1a6.js.map": "/testReact/static/js/main.9cb7d1a6.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.9cb7d1a6.js"
   ]
 }
